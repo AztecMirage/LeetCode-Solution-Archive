@@ -14,7 +14,7 @@
 
 # Finally, total is 1994, which is the integer value of "MCMXCIV".
 
-# Code
+#Solution
 def romanToInt(s: str) -> int:
     # Mapping
     roman_to_int = {
