@@ -22,6 +22,7 @@
 # After iterations, x converges to 3 and y converges to 2.
 # We return the minimum of 3 and 2, which is 2.
 
+#Solution
 def square_root(n):
     if n == 0 or n == 1:
         return n
